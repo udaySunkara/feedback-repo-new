@@ -1,0 +1,28 @@
+{
+  "123" : {
+    "assetDetails": {
+      "assetType": "Coffee Machine",
+      "assetId": "123",
+      "building": "Creekside C",
+      "floor": 2
+    },
+    "questionDetails": {
+      "question": "What's happening with the Coffee Machine?",
+      "supportText": "Select an option below. We'll get support out to fix the issue as soon as possible",
+      "optionList": [{"name": "No hot water", "isSelected": false }, {"name": "No Power", "isSelected": false },  {"name":"Steamer issue", "isSelected": false },  {"name":"Needs cleaning", "isSelected": false }]
+    }
+  },
+  "321" : {
+    "assetDetails": {
+      "assetType": "Printer",
+      "assetId": "321",
+      "building": "Creekside C",
+      "floor": 2
+    },
+    "questionDetails": {
+      "question": "What's happening with the Printer?",
+      "supportText": "Select an option below. We'll get support out to fix the issue as soon as possible",
+      "optionList": [ {"name":"Out of ink", "isSelected": false },  {"name":"Badge scanner issue", "isSelected": false },  {"name":"Paper Jam", "isSelected": false },  {"name":"No power", "isSelected": false }]
+    }
+  }
+}
