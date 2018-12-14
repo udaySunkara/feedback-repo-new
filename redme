@@ -1,0 +1,5 @@
+//To run
+ng serve
+
+//To build
+ng build
